@@ -1,0 +1,10 @@
+ag\selm\catalogue\service\DefaultProductService.class
+ag\selm\catalogue\CatalogueServiceApplication.class
+ag\selm\catalogue\controller\ProductsRestController.class
+ag\selm\catalogue\repository\ProductRepository.class
+ag\selm\catalogue\controller\payload\NewProductPayload.class
+ag\selm\catalogue\controller\ProductRestController.class
+ag\selm\catalogue\entity\Product.class
+ag\selm\catalogue\controller\BadRequestControllerAdvice.class
+ag\selm\catalogue\service\ProductService.class
+ag\selm\catalogue\controller\payload\UpdateProductPayload.class

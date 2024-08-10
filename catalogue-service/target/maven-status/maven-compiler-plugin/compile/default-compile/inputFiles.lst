@@ -1,0 +1,10 @@
+C:\develop\IdeaProjects\selmag\catalogue-service\src\main\java\ag\selm\catalogue\CatalogueServiceApplication.java
+C:\develop\IdeaProjects\selmag\catalogue-service\src\main\java\ag\selm\catalogue\controller\BadRequestControllerAdvice.java
+C:\develop\IdeaProjects\selmag\catalogue-service\src\main\java\ag\selm\catalogue\controller\payload\NewProductPayload.java
+C:\develop\IdeaProjects\selmag\catalogue-service\src\main\java\ag\selm\catalogue\controller\payload\UpdateProductPayload.java
+C:\develop\IdeaProjects\selmag\catalogue-service\src\main\java\ag\selm\catalogue\controller\ProductRestController.java
+C:\develop\IdeaProjects\selmag\catalogue-service\src\main\java\ag\selm\catalogue\controller\ProductsRestController.java
+C:\develop\IdeaProjects\selmag\catalogue-service\src\main\java\ag\selm\catalogue\entity\Product.java
+C:\develop\IdeaProjects\selmag\catalogue-service\src\main\java\ag\selm\catalogue\repository\ProductRepository.java
+C:\develop\IdeaProjects\selmag\catalogue-service\src\main\java\ag\selm\catalogue\service\DefaultProductService.java
+C:\develop\IdeaProjects\selmag\catalogue-service\src\main\java\ag\selm\catalogue\service\ProductService.java
