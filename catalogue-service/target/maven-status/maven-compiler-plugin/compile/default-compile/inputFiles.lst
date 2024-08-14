@@ -1,4 +1,5 @@
 C:\develop\IdeaProjects\selmag\catalogue-service\src\main\java\ag\selm\catalogue\CatalogueServiceApplication.java
+C:\develop\IdeaProjects\selmag\catalogue-service\src\main\java\ag\selm\catalogue\config\SecurityBeans.java
 C:\develop\IdeaProjects\selmag\catalogue-service\src\main\java\ag\selm\catalogue\controller\BadRequestControllerAdvice.java
 C:\develop\IdeaProjects\selmag\catalogue-service\src\main\java\ag\selm\catalogue\controller\payload\NewProductPayload.java
 C:\develop\IdeaProjects\selmag\catalogue-service\src\main\java\ag\selm\catalogue\controller\payload\UpdateProductPayload.java

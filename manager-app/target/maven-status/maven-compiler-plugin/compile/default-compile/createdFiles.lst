@@ -1,11 +1,15 @@
+ag\selm\manager\entity\SelmagUser.class
 ag\selm\manager\controller\payload\UpdateProductPayload.class
 ag\selm\manager\controller\ProductsController.class
 ag\selm\manager\entity\Product.class
+ag\selm\manager\security\SelmagUserDetailService.class
 ag\selm\manager\client\BadRequestException.class
 ag\selm\manager\client\ProductsRestClient.class
 ag\selm\manager\client\RestClientProductsRestClientImpl$1.class
 ag\selm\manager\controller\ProductController.class
 ag\selm\manager\config\ClientBeans.class
+ag\selm\manager\entity\Authority.class
+ag\selm\manager\SelmagUserRepository.class
 ag\selm\manager\client\RestClientProductsRestClientImpl.class
 ag\selm\manager\ManagerApplication.class
 ag\selm\manager\controller\payload\NewProductPayload.class

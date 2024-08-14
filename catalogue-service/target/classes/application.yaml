@@ -12,6 +12,12 @@ spring:
     locations: db/migration
   jpa:
     show-sql: true
+  security:
+    user:
+      name: catalogue_service_user
+      password: '{noop}password'
+      roles:
+        - SERVICE
 logging:
   level:
     sql: info

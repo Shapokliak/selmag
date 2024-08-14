@@ -1,3 +1,4 @@
+ag\selm\catalogue\config\SecurityBeans.class
 ag\selm\catalogue\service\DefaultProductService.class
 ag\selm\catalogue\CatalogueServiceApplication.class
 ag\selm\catalogue\controller\ProductsRestController.class
