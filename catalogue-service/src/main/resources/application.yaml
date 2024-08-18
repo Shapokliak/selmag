@@ -13,11 +13,10 @@ spring:
   jpa:
     show-sql: true
   security:
-    user:
-      name: catalogue_service_user
-      password: '{noop}password'
-      roles:
-        - SERVICE
+    oauth2:
+      resourceserver:
+        jwt:
+          issuer-uri: http://localhost:8091/realms/selmag-realm
 logging:
   level:
     sql: info

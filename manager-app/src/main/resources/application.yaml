@@ -4,6 +4,7 @@ selmag:
       url: http://localhost:8081
       username: catalogue_service_user
       password: password
+      registration-id: keycloak
 
 spring:
   datasource:
@@ -16,3 +17,19 @@ spring:
     locations: db/migration
   jpa:
     database-platform: org.hibernate.dialect.PostgreSQLDialect
+  security:
+    oauth2:
+      client:
+        provider:
+          keycloak:
+            issuer-uri: http://localhost:8091/realms/selmag-realm
+            user-name-attribute: preferred_username
+        registration:
+          keycloak:
+            client-id: manager-app-client
+            client-secret: dFk5Q3FKH9CUBtKBaoDbd4KJqmTDMcZa
+            scope:
+              - openid
+              - view_catalogue
+              - edit_catalogue
+              - microprofile-jwt

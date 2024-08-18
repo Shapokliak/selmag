@@ -2,6 +2,7 @@ C:\develop\IdeaProjects\selmag\manager-app\src\main\java\ag\selm\manager\client\
 C:\develop\IdeaProjects\selmag\manager-app\src\main\java\ag\selm\manager\client\ProductsRestClient.java
 C:\develop\IdeaProjects\selmag\manager-app\src\main\java\ag\selm\manager\client\RestClientProductsRestClientImpl.java
 C:\develop\IdeaProjects\selmag\manager-app\src\main\java\ag\selm\manager\config\ClientBeans.java
+C:\develop\IdeaProjects\selmag\manager-app\src\main\java\ag\selm\manager\config\SecurityBeans.java
 C:\develop\IdeaProjects\selmag\manager-app\src\main\java\ag\selm\manager\controller\payload\NewProductPayload.java
 C:\develop\IdeaProjects\selmag\manager-app\src\main\java\ag\selm\manager\controller\payload\UpdateProductPayload.java
 C:\develop\IdeaProjects\selmag\manager-app\src\main\java\ag\selm\manager\controller\ProductController.java
@@ -10,5 +11,6 @@ C:\develop\IdeaProjects\selmag\manager-app\src\main\java\ag\selm\manager\entity\
 C:\develop\IdeaProjects\selmag\manager-app\src\main\java\ag\selm\manager\entity\Product.java
 C:\develop\IdeaProjects\selmag\manager-app\src\main\java\ag\selm\manager\entity\SelmagUser.java
 C:\develop\IdeaProjects\selmag\manager-app\src\main\java\ag\selm\manager\ManagerApplication.java
+C:\develop\IdeaProjects\selmag\manager-app\src\main\java\ag\selm\manager\security\OAuthClientRequestInterceptor.java
 C:\develop\IdeaProjects\selmag\manager-app\src\main\java\ag\selm\manager\security\SelmagUserDetailService.java
 C:\develop\IdeaProjects\selmag\manager-app\src\main\java\ag\selm\manager\SelmagUserRepository.java
