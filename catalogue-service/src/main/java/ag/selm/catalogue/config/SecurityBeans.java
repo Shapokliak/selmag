@@ -17,7 +17,7 @@ public class SecurityBeans {
         return http
                 .authorizeHttpRequests(authorizeHttpRequests -> authorizeHttpRequests
                         .requestMatchers(HttpMethod.POST, "/catalogue-api/products")
-                        .hasAuthority("edit_catalogue")
+                        .hasAuthority("SCOPE_edit_catalogue")
                         .requestMatchers(HttpMethod.PATCH, "/catalogue-api/products/{productId:\\d}")
                         .hasAuthority("SCOPE_edit_catalogue")
                         .requestMatchers(HttpMethod.DELETE, "/catalogue-api/products/{productId:\\d}")
