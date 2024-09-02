@@ -1,5 +1,3 @@
-create schema if not exists catalogue;
-
 create table catalogue.t_product
 (
     id        serial primary key,

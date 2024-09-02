@@ -1,0 +1,6 @@
+server:
+  port: 8082
+selmag:
+  services:
+    catalogue:
+      uri: http://localhost:8081

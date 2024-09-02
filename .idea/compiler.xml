@@ -9,12 +9,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="catalogue-service" />
         <module name="manager-app" />
+        <module name="customer-app" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="catalogue-service" options="-parameters" />
+      <module name="customer-app" options="-parameters" />
       <module name="manager-app" options="-parameters" />
       <module name="selmag-parent" options="-parameters" />
     </option>
